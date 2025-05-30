@@ -1,2 +1,2 @@
 ## Pseudude
-Pseudude is a typescript library to create users pseudonyms.
+Pseudude is a library to create users pseudonyms.
